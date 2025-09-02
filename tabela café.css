@@ -1,0 +1,29 @@
+html{
+    padding: 0;
+    margin: 0;
+    background-image: url(home-img.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+table{
+    color: white;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 50%;
+    height: 100%;
+    font-weight: bold;
+    align-items: center;
+}
+
+h1{
+    font-weight: bold;
+    color: red;
+    text-align: center;
+    text-decoration:dashed;
+
+}
+th{
+    background-color: white;
+    color: black;
+}
